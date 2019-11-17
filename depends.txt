@@ -1,0 +1,2 @@
+default
+fake_diamonds
